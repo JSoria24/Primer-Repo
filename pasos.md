@@ -9,3 +9,6 @@ para añadir a todos los archivos es "git add ."
 Paso 3:
 Crear una version (commit) de repositorio
 git commit -m "Version 1 de mi repositorio"
+
+con git log podemos ver el listado de commit (versiones)
+con git status podemos el estado actualde nuestros repositorios
